@@ -100,6 +100,7 @@ class _MessageTextFieldState extends State<MessageTextField> {
   }
 
   sendMessage(String message, String type) async {
+    //// Sending Messages using Firebase Cloud Firestore
     await FirebaseFirestore.instance
         .collection('users')
         .doc(widget.currentId)

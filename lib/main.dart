@@ -12,7 +12,10 @@ final navigatorkey = GlobalKey<ScaffoldMessengerState>();
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // Firebase Authentication Initialization in main.dart
   await Firebase.initializeApp();
+
   await MySharedPrefference.init();
   await initializeService();
   runApp(const MyApp());

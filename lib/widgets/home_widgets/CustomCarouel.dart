@@ -1,9 +1,9 @@
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:women_safety_app/utils/quotes.dart';
 import 'package:women_safety_app/widgets/home_widgets/safewebview.dart';
-import 'package:collection/collection.dart';
+
+import 'package:carousel_slider/carousel_slider.dart';
 
 class CustomCarouel extends StatelessWidget {
   const CustomCarouel({Key? key}) : super(key: key);
@@ -35,7 +35,7 @@ class CustomCarouel extends StatelessWidget {
                       context,
                       SafeWebView(
                           url:
-                              "http://upthrust.co/2021/08/inspiring-bangladeshi-women-2021"));
+                              "https://www.tbsnews.net/women-empowerment/inspiring-bangladeshi-women-recent-times-whom-you-need-know-254668"));
                 } else if (index == 1) {
                   navigateToRoute(
                       context,

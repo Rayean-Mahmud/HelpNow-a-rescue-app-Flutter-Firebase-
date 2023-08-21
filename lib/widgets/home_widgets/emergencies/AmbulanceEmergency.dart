@@ -10,6 +10,7 @@ class AmbulanceEmergency extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.only(left: 10.0, bottom: 5),
+      //example of using flutter widgets
       child: Card(
         elevation: 5,
         shape: RoundedRectangleBorder(

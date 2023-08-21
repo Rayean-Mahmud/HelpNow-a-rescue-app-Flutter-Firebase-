@@ -60,7 +60,7 @@ class DatabaseHelper {
     return result;
   }
 
-  //Insert a contact object
+  // Adding Contacts using SQFLite
   Future<int> insertContact(TContact contact) async {
     Database db = await this.database;
     var result = await db.insert(contactTable, contact.toMap());
