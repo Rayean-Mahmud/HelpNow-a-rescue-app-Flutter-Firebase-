@@ -10,6 +10,8 @@ Location-based Functionality and Map Page: Leveraging accurate user location dat
 
 Panic Button: HelpNow incorporates a panic button that allows women to send distress signals to their designated emergency contacts and guardians. Upon activation, the app will share the user's real-time location with trusted contacts.
 
+![Screenshot](./assets/sc.png)
+
 Shake Feature: In case of an emergency, users can shake their phones to trigger a distress signal, and their location will be sent to the designated emergency contacts automatically.
 
 Safety Guides and Motivational Articles: HelpNow includes informative sections that provide safety tips and guidelines for women during potentially risky situations. Additionally, the app features motivational articles to empower and uplift women, providing encouragement during difficult times.
