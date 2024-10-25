@@ -4,13 +4,14 @@ Key Features:
 
 Emergency Contacts: HelpNow provides essential emergency contact numbers, including medical emergency, ambulance, fire brigade, and police station. Additionally, users can add trusted contacts of family members and friends who will be notified in case of an emergency.
 
+![Screenshot](./assets/sc.png)
+
 Chat with Guardian: HelpNow offers a chat feature that allows users to communicate with their designated guardians. Guardians can also initiate chats with the user to check on their safety and well-being.
 
 Location-based Functionality and Map Page: Leveraging accurate user location data, HelpNow provides location-specific services and support. The app's map page displays markers for people who have requested help, providing a visual representation of affected areas and the distribution of rescue requests. Users can find nearby police stations, hospitals, pharmacies, and bus stations in case of immediate assistance needs.
 
 Panic Button: HelpNow incorporates a panic button that allows women to send distress signals to their designated emergency contacts and guardians. Upon activation, the app will share the user's real-time location with trusted contacts.
 
-![Screenshot](./assets/sc.png)
 
 Shake Feature: In case of an emergency, users can shake their phones to trigger a distress signal, and their location will be sent to the designated emergency contacts automatically.
 
