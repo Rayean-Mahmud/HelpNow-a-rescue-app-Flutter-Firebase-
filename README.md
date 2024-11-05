@@ -1,4 +1,4 @@
-## 🚨 SafeConnect - Your Companion for Personal Safety 🚨
+# 🚨 SafeConnect- Your Companion for Personal Safety 🚨
 
 
 Welcome to **SafeConnect**, a robust and intuitive personal safety app developed using the Flutter framework. SafeConnect is designed to be a reliable companion during crises and emergencies, connecting users in distress with trusted contacts and essential support services. 🚑
