@@ -72,7 +72,7 @@ SafeConnect empowers individuals and communities to act decisively in emergencie
 
 ---
 
-> **Stay safe. Stay connected.** With SafeConnect, support is just a click away. 🚑❤️
+> **Stay connected. Stay safe.** With SafeConnect, support is just a click away. 🚑❤️
 
 ---
 
