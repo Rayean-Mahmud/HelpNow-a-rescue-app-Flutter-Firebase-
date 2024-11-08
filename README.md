@@ -10,7 +10,7 @@ Welcome to **SafeConnect**, a robust and intuitive personal safety app developed
 ## 🌟 Key Features
 
 ### 📞 Emergency Contacts
-- Essential contact numbers for emergencies (ambulance, fire brigade, police).
+- Essential contact numbers for emergencies (ambulance, fire brigade, police) and call-by single-tap options.
 - Option to add **trusted contacts** who will be notified in an emergency.
 
 ### 💬 Chat with Guardian
