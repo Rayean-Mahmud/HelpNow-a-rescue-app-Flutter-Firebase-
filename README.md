@@ -73,7 +73,7 @@ SafeConnect empowers individuals and communities to act decisively in emergencie
 
 
 <p align="center">
-    <img src="./assets/napkin-selection%20(15).png" alt="Features" width=700">
+    <img src="./assets/napkin-selection%20(16).png" alt="Features" width=700">
 </p>
 
 
