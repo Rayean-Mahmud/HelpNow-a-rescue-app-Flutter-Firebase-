@@ -67,7 +67,15 @@ By combining these technologies, SafeConnect aims to be a reliable safety tool f
 
 ## 💡 Why SafeConnect?
 
+
+
 SafeConnect empowers individuals and communities to act decisively in emergencies. By combining real-time location tracking, swift communication, and guidance, we aim to promote a safer, more connected world. Join us and be part of a network dedicated to **personal safety, motivation, and positive impact.**
+
+
+<p align="center">
+    <img src="./assets/napkin-selection%20(15).png" alt="Features" width=700">
+</p>
+
 
 
 ---
