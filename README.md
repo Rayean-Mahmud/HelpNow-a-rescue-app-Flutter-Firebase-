@@ -76,8 +76,6 @@ SafeConnect empowers individuals and communities to act decisively in emergencie
     <img src="./assets/napkin-selection%20(16).png" alt="Features" width=700">
 </p>
 
-
-
 ---
 
 > **Stay connected. Stay safe.** With SafeConnect, support is just a click away. 🚑❤️
